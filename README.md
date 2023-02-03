@@ -19,13 +19,13 @@ Tambien se puede configurar otra base de datos en el properties
 
 ## Los métodos realizados fueron los siguientes:
 
-GET listarTareas Method
+- GET listarTareas Method
 http://localhost:8080/v1/tareas/listarTareas
 
-Delete removerTarea Method
+- DELETE removerTarea Method
 http://localhost:8080/v1/tareas/removerTarea/3
 
-Post agregarTarea Method
+- POST agregarTarea Method
 http://localhost:8080/v1/tareas/agregarTarea
 Body
 {
@@ -34,7 +34,7 @@ Body
       "vigente": "true"
    }
 
-PUT editarTarea Method
+- PUT editarTarea Method
 http://localhost:8080/v1/tareas/editarTarea/2
 Body
 {
