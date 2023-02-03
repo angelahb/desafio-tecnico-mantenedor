@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Feb 02 22:32:09 CLST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-0186-14e7-01ff-0000074a3678 
+on database directory memory:C:\Users\jdiaz\Downloads\tareasapp\df5b03bf-1b83-49d0-a64b-acca5d44bcbf with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Users/jdiaz/.m2/repository/org/apache/derby/derby/10.11.1.1/derby-10.11.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.4.1+1-LTS-2
+user.dir=C:\Users\jdiaz\Downloads\tareasapp
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
